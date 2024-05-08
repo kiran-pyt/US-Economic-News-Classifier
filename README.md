@@ -17,6 +17,8 @@ I utilized TF-IDF vectorization, a common technique in NLP, to convert the text 
 **Results**
 The classifier provided valuable insights, including training and testing accuracy scores, classification reports with precision, recall, and F1-score for both relevant and non-relevant categories, and visual representations of confusion matrices to understand the model's performance.
 
+![Uploading image.png…]()
+
 
 
 
