@@ -8,10 +8,16 @@ The project involved several key steps:
 **Data Preprocessing:.**
 
 Initially, I cleaned and prepared the dataset by removing irrelevant data and HTML tags. I also eliminated URLs, punctuations, digits, and stopwords from the text, and applied lemmatization to normalize the text data.
-**
-Feature Extraction: **
+
+**Feature Extraction:** 
 
 I utilized TF-IDF vectorization, a common technique in NLP, to convert the text data into numerical features. Additionally, I experimented with Count Vectorization and Hashing Vectorization for comparison purposes.
-Model Training and Evaluation: I trained a Gaussian Naive Bayes classifier on the TF-IDF vectorized data. Subsequently, I evaluated the model's performance on both training and testing datasets. Visualizations such as confusion matrices were used to interpret the classification results.
-**Requirements**
-The project was implemented in Python 3.x and required several Python libraries, including pandas, numpy, matplotlib, plotly, seaborn, BeautifulSoup, nltk, and scikit-learn.
+
+
+** Model Training and Evaluation:**
+
+
+I trained a Gaussian Naive Bayes classifier on the TF-IDF vectorized data. Subsequently, I evaluated the model's performance on both training and testing datasets. Visualizations such as confusion matrices were used to interpret the classification results.
+
+
+
