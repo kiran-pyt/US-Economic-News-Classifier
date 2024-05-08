@@ -14,6 +14,8 @@ I utilized TF-IDF vectorization, a common technique in NLP, to convert the text 
 **Model Training and Evaluation:** I trained a Gaussian Naive Bayes classifier on the TF-IDF vectorized data. Subsequently, I evaluated the model's performance on both training and testing datasets. Visualizations such as confusion matrices were used to interpret the classification results
 
 
+**Results**
+The classifier provided valuable insights, including training and testing accuracy scores, classification reports with precision, recall, and F1-score for both relevant and non-relevant categories, and visual representations of confusion matrices to understand the model's performance.
 
 
 
