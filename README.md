@@ -11,6 +11,8 @@ Initially, I cleaned and prepared the dataset by removing irrelevant data and HT
 **Feature Extraction:** 
 I utilized TF-IDF vectorization, a common technique in NLP, to convert the text data into numerical features. Additionally, I experimented with Count Vectorization and Hashing Vectorization for comparison purposes.
 
+**Model Training and Evaluation:** I trained a Gaussian Naive Bayes classifier on the TF-IDF vectorized data. Subsequently, I evaluated the model's performance on both training and testing datasets. Visualizations such as confusion matrices were used to interpret the classification results
+
 
 
 
